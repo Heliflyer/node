@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="LightSail Node.js Instance">
+    <serverData>
+      <paths name="LightSail Node.js Instance">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/bitnami/htdocs" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c8e0ff4d-2ebb-4d3d-9a51-65492b206d92" name="LightSail Node.js Instance" url="http://35.178.32.237">
+        <fileTransfer host="35.178.32.237" port="22" privateKey="$USER_HOME$/Desktop/Amazon EC2 Key Pair/LightsailDefaultPrivateKey-eu-west-2.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
